@@ -13,6 +13,7 @@ public class TEST {
 		new Thread(new MyThread(n)).start();
 		new Thread(new MyThread(n)).start(); 
 		System.out.println(n);
+		/////
 	}
 }
  
